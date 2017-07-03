@@ -1,0 +1,27 @@
+{
+  "name": "update-schema-defaults",
+  "version": "0.0.1",
+  "description": "Updates JSON from a set schema",
+  "main": "run.js",
+  "scripts": {
+    "test": "node test.js",
+    "usd": "node run.js"
+  },
+  "author": "George Deeks",
+  "dependencies": {
+    "ajv": "^5.1.5",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.1",
+    "yargs": "^8.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3",
+    "tape-promise": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "//": "TODO: adjust the below repository to the correct one!",
+    "url": "git://github.com/username/repository.git"
+  },
+  "license": "UNLICENSED"
+}

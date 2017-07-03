@@ -1,0 +1,15 @@
+{
+    "en-US": {
+        "common": {
+            "airportPickerCancelButton": "CANCEL",
+            "textAlternativeForZeroPrice": "No Charge",
+            "valueSelectedAriaLabel": "Value selected",
+            "clickTaxesFeesLabel": "Jonjo Shelvey",
+            "suffixPickerTitle": "Suffix"
+        },
+        "analytics": {
+            "trackingTravelersValidationErrorLabelPrefix": "",
+            "trackingSuffix": "What if blank?"
+        }
+    }
+}
